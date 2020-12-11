@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+app/__pycache__/
+app/api/__pycache__/
+config/__pycache__/
+name/__pycache__/
+name/api/__pycache__/
+*.db
+*.pyc
+nohup.out
+*.o
+*.out
+build/
+*.cron
+*.log
